@@ -1,3 +1,5 @@
+<img src="https://github.com/SantanuPanda/SantanuPanda/blob/main/SANTANU%20PANDA.jpg?raw=true">
+
 <h1 align="center">Hi 👋, I'm SANTANU PANDA</h1>
 <h3 align="center">A passionate MERN STACK Developer from India</h3>
 
