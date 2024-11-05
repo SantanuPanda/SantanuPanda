@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://apricot-darcy-69.tiiny.site](https://apricot-darcy-69.tiiny.site)
 
-- ⚡ Fun fact **GAMER BECOME A CODER 😁**
+- ⚡ Fun fact **DSA!, DSA!, DSA!, I don’t like, I Avoid.… but DSA!, likes me, I can’t Avoid. 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
