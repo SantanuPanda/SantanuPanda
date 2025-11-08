@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **<a href="mailto:theultimate75399@gmail.com">Email me</a>**
+- 📫 How to reach me **<a href="https://mail.google.com/mail/?view=cm&fs=1&to=theultimate75399@gmail.com" target="_blank">Email me</a>**
 
 - 📄 Know about my experiences  **<a href="https://resumesantanupanda.linkyhost.com"> MY Resume </a>**
 
