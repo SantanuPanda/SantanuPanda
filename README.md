@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **theultimate75399@gmail.com**
 
-- 📄 Know about my experiences [https://apricot-darcy-69.tiiny.site](https://apricot-darcy-69.tiiny.site)
+- 📄 Know about my experiences [https://resumesantanupanda.linkyhost.com]
 
 - ⚡ Fun fact **DSA!, DSA!, DSA!, I don’t like, I Avoid.… but DSA!, likes me, I can’t Avoid. 😁**
 
