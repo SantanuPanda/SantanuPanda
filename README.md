@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **theultimate75399@gmail.com**
+- 📫 How to reach me **<a href="mailto:theultimate75399@gmail.com">Email me</a>**
 
-- 📄 Know about my experiences   <a href="https://resumesantanupanda.linkyhost.com"> MY Resume </a>
+- 📄 Know about my experiences  **<a href="https://resumesantanupanda.linkyhost.com"> MY Resume </a>**
 
 - ⚡ Fun fact **DSA!, DSA!, DSA!, I don’t like, I Avoid.… but DSA!, likes me, I can’t Avoid. 😁**
 
