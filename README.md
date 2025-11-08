@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **theultimate75399@gmail.com**
 
-- 📄 Know about my experiences [https://resumesantanupanda.linkyhost.com]
+- 📄 Know about my experiences   <a href="https://resumesantanupanda.linkyhost.com"> MY Resume </a>
 
 - ⚡ Fun fact **DSA!, DSA!, DSA!, I don’t like, I Avoid.… but DSA!, likes me, I can’t Avoid. 😁**
 
