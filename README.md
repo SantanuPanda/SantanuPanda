@@ -82,4 +82,5 @@
        alt="santanupanda" />
 </p>
 
+![snake gif](https://github.com/SantanuPanda/SantanuPanda/blob/output/github-snake-dark.svg)
 
