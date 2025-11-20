@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences  **<a href="https://resumesantanupanda.linkyhost.com"> MY Resume </a>**
 
-- ⚡ Fun fact **DSA!, DSA!, DSA!, I don’t like, I Avoid.… but DSA!, likes me, I can’t Avoid. 😁**
+- ⚡ Fun fact **DSA!, DSA!, DSA!, I don’t like, I Avoid. 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
