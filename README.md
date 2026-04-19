@@ -23,7 +23,7 @@
 - 🌱 Currently learning **Computer Science & Engineering**
 - 💬 Ask me about **JavaScript, MERN Stack, REST APIs**
 - 📫 Reach me at **[theultimate75399@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=theultimate75399@gmail.com)**
-- 📄 Check out **[My Resume](https://resumesantanupanda.linkyhost.com)**
+- 📄 Check out **[My Resume](https://rough-rain-83.linkyhost.com)**
 - ⚡ Fun fact: **DSA!, DSA!, DSA! — I don't like it, I avoid it 😁**
 
 <br clear="right"/>
