@@ -48,7 +48,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=theultimate75399@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://resumesantanupanda.linkyhost.com" target="_blank">
+  <a href="https://rough-rain-83.linkyhost.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23FF6F00.svg?style=for-the-badge&logo=read.cv&logoColor=white" alt="Resume"/>
   </a>
 </p>
